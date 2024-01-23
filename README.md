@@ -6,6 +6,7 @@
 
 ##### DOWNLOAD
 [RAR](https://github.com/JshMaxer/Tekken-6-Cheat-Generator/blob/main/PSP_Tekken6_Cheat_Generator.rar)
+
 Click the 3 dots beside on name of the repos then click download or Ctrl + Shift + S
 
 ## INTRODUCTION
