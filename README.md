@@ -5,7 +5,8 @@
 ![tekken3](https://github.com/JshMaxer/Tekken-6-Cheat-Generator/assets/78284063/9d197bdc-c7d6-4c42-876f-85127fb4f961)
 
 ##### DOWNLOAD
-[rar](https://www.mediafire.com/file/6sr11mpwxbpqqhc/PSP_Tekken6_Cheat_Generator.rar/file)
+[RAR](https://github.com/JshMaxer/Tekken-6-Cheat-Generator/blob/main/PSP_Tekken6_Cheat_Generator.rar)
+Click the 3 dots beside on name of the repos then click download or Ctrl + Shift + S
 
 ## INTRODUCTION
   Welcome to the Tekken 6 Cheat Generator! This handy application, originally released on November 9, 2021, allows you to modify your gameplay experience in Tekken 6 for the PSP platform by generating CWCheat codes.
