@@ -14,7 +14,7 @@ Click the 3 dots beside on name of the repos then click download or Ctrl + Shift
   
   **Please remember:** Using cheats may violate the game's terms of service and can negatively impact your overall gameplay experience. It's always best to hone your skills and progress organically.
   
-  **This application originally released in **codedformm sites** on **November 9, 2021.****
+  **This application written on VB.NET and originally released on **November 9, 2021.****
 
 ## **Functional requirements**
 
